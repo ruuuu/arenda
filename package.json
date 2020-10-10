@@ -1,0 +1,26 @@
+{
+  "name": "rufina",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfiletest.js",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "playwright": "^1.2.1",
+    "puppeteer-autoscroll-down": "^0.1.6",
+    "puppeteer-core": "^5.2.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^26.3.0",
+    "babel-preset-env": "^1.7.0",
+    "faker": "^4.1.0",
+    "jest": "^26.4.0",
+    "puppeteer": "^5.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
